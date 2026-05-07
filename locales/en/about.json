@@ -1,0 +1,8 @@
+{
+  "label": "About",
+  "heading": "Where software meets",
+  "headingAccent": "the natural world.",
+  "p1": "I build systems that bridge the gap between raw environmental data and actionable insight — from satellite imagery ingestion pipelines to interactive biodiversity maps served at scale.",
+  "p2": "With a solid foundation in fullstack engineering (Next.js, Python, PostgreSQL/PostGIS) and deep expertise in geospatial tooling (GDAL, QGIS, Deck.gl, Leaflet), I bring a data-first mindset to every product I work on.",
+  "p3": "When I'm not writing code, I'm usually exploring open datasets on species distribution, land-cover change, or remote sensing archives."
+}

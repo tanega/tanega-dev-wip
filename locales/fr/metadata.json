@@ -1,0 +1,13 @@
+{
+  "title": "Gaëtan — Ingénieur Fullstack & Data",
+  "titleTemplate": "%s | Gaëtan",
+  "description": "Développeur fullstack et ingénieur data spécialisé en analyse géospatiale, observation de la Terre et données de biodiversité.",
+  "blog": {
+    "title": "Blog",
+    "description": "Réflexions sur l'ingénierie géospatiale, les systèmes de données et l'informatique de la biodiversité."
+  },
+  "projects": {
+    "title": "Projets",
+    "description": "Une collection de projets fullstack, data engineering et géospatiaux — des systèmes en production aux explorations du weekend."
+  }
+}

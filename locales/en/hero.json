@@ -1,0 +1,16 @@
+{
+  "eyebrow": "Open to new projects",
+  "headlineLine1": "Building at the",
+  "headlineLine2": "intersection of",
+  "headlineAccent1": "data",
+  "headlineAccent2": "earth.",
+  "subheadline": "I'm a fullstack developer and data engineer with a focus on geospatial systems, earth observation pipelines, and biodiversity data analysis.",
+  "ctaProjects": "View Projects",
+  "ctaBlog": "Read Blog",
+  "scroll": "Scroll",
+  "roles": {
+    "fullstack": "Fullstack Developer",
+    "data": "Data Engineer",
+    "geospatial": "Geospatial Analyst"
+  }
+}

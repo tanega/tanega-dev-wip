@@ -1,0 +1,8 @@
+{
+  "label": "À propos",
+  "heading": "Là où le logiciel rencontre",
+  "headingAccent": "le monde naturel.",
+  "p1": "Je construis des systèmes qui font le pont entre les données environnementales brutes et l'information exploitable — des pipelines d'ingestion d'imagerie satellitaire aux cartes interactives de biodiversité servies à grande échelle.",
+  "p2": "Avec des bases solides en ingénierie fullstack (Next.js, Python, PostgreSQL/PostGIS) et une expertise approfondie en outils géospatiaux (GDAL, QGIS, Deck.gl, Leaflet), j'apporte une vision orientée données à chaque produit sur lequel je travaille.",
+  "p3": "Quand je n'écris pas de code, j'explore généralement des jeux de données ouverts sur la distribution des espèces, les changements d'occupation des sols ou les archives de télédétection."
+}

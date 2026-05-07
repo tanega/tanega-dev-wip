@@ -1,0 +1,16 @@
+{
+  "eyebrow": "Disponible pour de nouveaux projets",
+  "headlineLine1": "Construire à la",
+  "headlineLine2": "croisée entre",
+  "headlineAccent1": "données",
+  "headlineAccent2": "terre.",
+  "subheadline": "Je suis développeur fullstack et ingénieur data, spécialisé dans les systèmes géospatiaux, les pipelines d'observation de la Terre et l'analyse de données de biodiversité.",
+  "ctaProjects": "Voir les projets",
+  "ctaBlog": "Lire le blog",
+  "scroll": "Défiler",
+  "roles": {
+    "fullstack": "Développeur Fullstack",
+    "data": "Ingénieur Data",
+    "geospatial": "Analyste Géospatial"
+  }
+}

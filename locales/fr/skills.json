@@ -1,0 +1,10 @@
+{
+  "label": "Compétences",
+  "heading": "Les outils du métier.",
+  "categories": {
+    "frontend": "Frontend",
+    "backend": "Backend",
+    "dataGis": "Data / SIG",
+    "devops": "DevOps & Outils"
+  }
+}

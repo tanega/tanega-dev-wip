@@ -1,0 +1,6 @@
+{
+  "localePaths": ["locales"],
+  "sourceLocale": "fr",
+  "keyStyle": "nested",
+  "namespaceEnabled": true,
+}

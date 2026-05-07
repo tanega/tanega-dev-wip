@@ -1,0 +1,10 @@
+{
+  "label": "Skills",
+  "heading": "Tools of the trade.",
+  "categories": {
+    "frontend": "Frontend",
+    "backend": "Backend",
+    "dataGis": "Data / GIS",
+    "devops": "DevOps & Tools"
+  }
+}
