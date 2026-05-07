@@ -24,32 +24,6 @@ export default function Hero() {
 
   useGSAP(
     () => {
-      const svgEl = containerRef.current?.querySelector<SVGSVGElement>("svg");
-      if (svgEl) {
-        const stroked = svgEl.querySelectorAll<SVGGeometryElement>(
-          "circle[stroke], ellipse, line",
-        );
-        stroked.forEach((el) => {
-          const len = el.getTotalLength ? el.getTotalLength() : 300;
-          gsap.set(el, { strokeDasharray: len, strokeDashoffset: len });
-        });
-        gsap.to(stroked, {
-          strokeDashoffset: 0,
-          duration: 2.4,
-          stagger: 0.18,
-          ease: "power2.inOut",
-          delay: 0.2,
-        });
-        gsap.to(svgEl, {
-          rotation: 360,
-          duration: 90,
-          repeat: -1,
-          ease: "none",
-          delay: 2.8,
-          transformOrigin: "50% 50%",
-        });
-      }
-
       gsap.fromTo(
         ".hero-eyebrow",
         { y: 20, opacity: 0 },

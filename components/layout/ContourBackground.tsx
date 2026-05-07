@@ -12,7 +12,8 @@ export default function ContourBackground() {
 
     let cancelled = false;
 
-    fetch("/contour_lines_44.svg")
+    const basePath = process.env.NEXT_PUBLIC_BASE_PATH ?? "";
+    fetch(`${basePath}/contour_lines_44.svg`)
       .then((r) => r.text())
       .then((svgText) => {
         if (cancelled || !container) return;

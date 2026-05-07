@@ -33,8 +33,8 @@ jobs:
       - name: Build
         run: npm run build
         env:
-          NEXT_PUBLIC_SITE_URL: https://tanega.github.io/tanega-dev-wip
-          NEXT_PUBLIC_BASE_PATH: /tanega-dev-wip
+          NEXT_PUBLIC_SITE_URL: https://www.tanega.dev
+          # NEXT_PUBLIC_BASE_PATH not set — custom domain serves from root
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
