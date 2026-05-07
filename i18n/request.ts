@@ -11,6 +11,7 @@ const NAMESPACES = [
   "hero",
   "about",
   "skills",
+  "launch",
 ] as const;
 
 export default getRequestConfig(async ({ requestLocale }) => {

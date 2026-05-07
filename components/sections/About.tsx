@@ -9,11 +9,16 @@ import { useTranslations } from "next-intl";
 gsap.registerPlugin(useGSAP, ScrollTrigger);
 
 const TERMINAL_SKILLS = [
+  "Python / FastAPI - Django",
+  "Elixir / Phoenix",
+  "Ruby / Rails",
   "Next.js / React",
-  "Python / FastAPI",
+  "SvelteKit / Svelte",
+  "Angular / VueJS",
   "PostGIS / GDAL",
-  "Deck.gl / Leaflet",
-  "dbt / Airbyte",
+  "DuckDB / DuckLake",
+  "Deck.gl / Maplibre",
+  "dbt / FME",
 ];
 
 export default function About() {
